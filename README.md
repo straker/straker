@@ -1,4 +1,4 @@
-**ICE Out; Abolish Ice**
+**ICE Out; Abolish ICE**
 
 Well hello there! I'm **Steven Lambert**, a Tech Lead, People Manager, and Accessibility Specialist. I specialize in design systems, performance, accessibility, and front-end architecture. I also enjoy making accessible HTML5 games, and giving back to the community through open source projects.
 
